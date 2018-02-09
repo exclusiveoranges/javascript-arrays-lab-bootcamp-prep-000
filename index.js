@@ -35,6 +35,7 @@ function removeLastKitten() {
 }
 
 function removeFirstKitten() {
-  return 
+  return slice(1)
 }
+
 
