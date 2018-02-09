@@ -23,7 +23,8 @@ function destructivelyRemoveFirstKitten() {
 }
 
 function appendKitten() {
-  return kittens.Append(name)
+  return [kittens.Append(name)]
 }
+
 
 
