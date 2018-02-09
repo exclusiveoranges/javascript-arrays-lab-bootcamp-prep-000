@@ -7,4 +7,7 @@ function destructivelyappendkitten(name) {
   return kittens
 }
 
-function destructivelyprependkitten
+function destructivelyprependkitten(name) {
+  kittens.unshift('Chip');
+  return kittens
+}
