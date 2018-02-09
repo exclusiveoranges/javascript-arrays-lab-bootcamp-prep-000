@@ -4,5 +4,5 @@ var kittens = ["Milo", "Otis", "Garfield"]
 
 function destructivelyappendkittenname(name) {
   kittens.push("Ralph");
-  return kittens
+  return window.kittens
 }
