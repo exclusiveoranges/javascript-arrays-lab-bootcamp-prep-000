@@ -6,3 +6,5 @@ function destructivelyappendkittenname(name) {
   kittens.push('Chip');
   return kittens
 }
+
+function destructively
