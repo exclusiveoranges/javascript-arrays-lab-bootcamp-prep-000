@@ -7,4 +7,4 @@ function destructivelyappendkittenname(name) {
   return kittens
 }
 
-function destructively
+function destructivelyprependkitten
